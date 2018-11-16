@@ -1,0 +1,39 @@
+baseurl = "https://awesome-static-site.docksal/"
+languageCode = "en-us"
+title = "Mark's Awesome Static Site"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+#disqusShortname = "spf13"
+# Enable gogle analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-minimalist-theme"
+
+
+[params]
+    site_author = "Mark A. McFate"
+    site_description = "An awesome-static-site by M. McFate, lifted from a blog by John Doe."
+    location = "Grinnell College Libraries"
+    # Link custom assets relative to /static
+    avatar = "img/hugo-logo.png"
+    header_background = "img/coffee.jpg"
+    header_title = "Mark's Awesome Static Site"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+    custom_css = []
+    custom_js  = []
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "SummittDweller"
+    facebook  = "mark@tamatoledo.net"
+    linkedin  = "mark@tamatoledo.net"
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "McFateM"
+    gplus     = ""
