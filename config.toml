@@ -1,6 +1,6 @@
-baseurl = "https://awesome-static-site.docksal/"
+baseurl = "https://static.grinnell.edu/"
 languageCode = "en-us"
-title = "Mark's Awesome Static Site"
+title = "Mark's Basic Static Site"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
