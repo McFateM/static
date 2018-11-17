@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 baseurl = "http://static.grinnell.edu/static"
+=======
+baseurl = "https://static.grinnell.edu/"
+>>>>>>> 0f441a03a98844d4535cf49599ab4df4685ef7e8
 languageCode = "en-us"
-title = "Mark's Awesome Static Site"
+title = "Mark's Basic Static Site"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
