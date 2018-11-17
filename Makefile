@@ -1,4 +1,5 @@
 build:
- rm -rf public
- hugo
- 
+  rm -rf public
+  hugo
+
+deploy: build
